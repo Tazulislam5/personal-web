@@ -1,0 +1,116 @@
+
+.half-width{
+    width: 40%;
+    padding-left: 50px;
+    float: left;
+    
+}
+.half-width img{
+    width: 50%;
+    padding-left: 5px;
+  
+}
+.orange-name{
+    color: salmon;
+    
+}
+
+section{
+    height: 400px;
+}
+#text-center{
+    text-align: center;
+}
+.half-third{
+    
+    float: left;
+    box-shadow: 6px 6px 40px gray;
+    border-radius: 15px;
+    height: 90%;
+    width: 27%;
+    background-color: white;
+    margin-left: 60px;
+    padding-left: 25px;
+    padding-top: 10px;
+    
+  
+
+}
+.modify-footer img{
+    width: 70%;
+    
+}
+.modify-footer{
+    margin-top: 250px;
+    margin-left: 400px;
+}
+.div-container{
+    position: relative;
+    
+}
+.left-center{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.right-center{
+    position: absolute;
+    top: 50%;
+    right: 26%;
+    transform: translate(-50%, -50%);
+}
+.half-third img{
+    width: 85%;
+  
+}
+.half-third p{
+    font-weight:200;
+    font-size: 20px;
+}
+.info-section{
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+.link-button{
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,salmon,tomato);
+    color:white;
+    font-weight: 300;
+    
+    padding: 13px 34px 13px 34px;
+    
+    
+}
+#update-div{
+    padding-top: 50px;
+   
+}
+#title-cen{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+}
+.song-sec{
+    width: 50%;
+    padding-left: 50px;
+    float: left;
+    
+}
+.song-sec img{
+    width: 60%;
+    padding-left: 5px;
+}
+.size-sec{
+    margin-top: 80px;
+}
+#color-cng{
+    color: crimson;
+}
